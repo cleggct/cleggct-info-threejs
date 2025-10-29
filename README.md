@@ -22,3 +22,10 @@ npm run build # generate static output in dist/
 - `textures/`, `banner.png` – Copied verbatim into `dist/`.
 
 Running either script rebuilds everything and produces `dist/` with `/index.html`, `/demos/<slug>/`, and `/posts/<slug>/`.
+
+## Credit for the Skybox Textures
+
+I got the images from opengameart.org, credit goes to
+Jockum Skoglund aka hipshot
+hipshot@zfight.com
+www.zfight.com
