@@ -172,7 +172,7 @@ function init() {
       uScale2: { value: 8.0 },
       uTintDeep: { value: new THREE.Color(0xb8cfe0) },
       uTintShallow: { value: new THREE.Color(0xe3f2ff) },
-      uOpacity: { value: 0.25 },
+      uOpacity: { value: 0.5 },
       uLightDir: { value: new THREE.Vector3(0.3, 1.0, 0.2).normalize() },
       uWaveAmp: { value: 0.2 },
       uWaveFreq: { value: new THREE.Vector2(0.25, 0.15) },
