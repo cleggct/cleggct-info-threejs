@@ -12,6 +12,7 @@ const WATCH_PATHS = [
   path.join(ROOT, "site"),
   path.join(ROOT, "posts"),
   path.join(ROOT, "demos"),
+  path.join(ROOT, "post-canvases"),
   path.join(ROOT, "textures"),
   path.join(ROOT, "banner.png"),
 ];
